@@ -1,11 +1,5 @@
 # API REST - Servicio de Abastecimiento ACME
 
-![ACME API](image.png)
-![Proceso de Transformación](image-1.png)
-![Respuesta SOAP](image-2.png)
-
----
-
 ## 🔍 Descripción General
 
 Este proyecto implementa una **API REST en .NET 8** que recibe pedidos de la tienda ubicada en Carrera 70 de ACME. La API transforma mensajes **JSON a XML (SOAP)** y los envía a un endpoint externo. Luego, convierte la respuesta SOAP a formato JSON y la retorna al cliente.
@@ -191,3 +185,6 @@ ApiEnvioPedidos/
 - **Jhon Heiler**  
 - **GitHub:** [JhonHeiler](https://github.com/JhonHeiler)
 
+![ACME API](image.png)
+![Proceso de Transformación](image-1.png)
+![Respuesta SOAP](image-2.png)
