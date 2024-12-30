@@ -12,8 +12,8 @@ Este proyecto implementa una API REST en .NET 8 que recibe pedidos de la tienda 
 ## Instalación y Configuración
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone https://github.com/JhonHeiler/api-envio-pedidos.git
+   cd APIENVIOPEDIDOS
    ```
 
 2. **Restaurar dependencias:**
@@ -41,7 +41,7 @@ Para ejecutar el proyecto en Docker:
 
 2. **Ejecutar el contenedor:**
    ```bash
-   docker run -p 8080:8080 acme-api
+   docker run -p 8080:80 acme-api
    ```
 
 3. **Acceder a la API:**
