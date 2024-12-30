@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiEnvioPedidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb91454fd82e47450cb93a3e1be53739441058c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiEnvioPedidos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiEnvioPedidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
